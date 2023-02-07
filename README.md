@@ -5,5 +5,5 @@
 I'm very very thankful to
 
 [Professor Mohammad Shahid](https://www.amu.ac.in/faculty/commerce/mohammad-shahid)
-<br> Department of Statistics and Operation Research
-<br> Aligarh Muslim University , Aligarh(202002)
+<br> **Department of Statistics and Operation Research**
+<br> **Aligarh Muslim University , Aligarh(202002)**
